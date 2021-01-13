@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there. Have a look at my portfolio. https://kkbhadi.github.io/KKBHADI/
 
 <!--
 **kkbhadi/KKBHADI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
